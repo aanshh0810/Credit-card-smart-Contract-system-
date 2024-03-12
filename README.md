@@ -1,1 +1,2 @@
-# Credit-card-smart-Contract-system-
+# Credit-card-Smart-contract-system
+Smart contract using blockchain technology for credit card transactions
